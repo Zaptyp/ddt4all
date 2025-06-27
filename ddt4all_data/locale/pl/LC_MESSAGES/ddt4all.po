@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:26+0100\n"
-"PO-Revision-Date: 2025-03-13 12:24+0100\n"
-"Last-Translator: --=FurtiF™=-- <not-reply@github.com>\n"
+"PO-Revision-Date: 2025-06-27 17:54+0200\n"
+"Last-Translator: Zaptyp <no-reply@github.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -28,16 +28,16 @@ msgid "Add to screen"
 msgstr "Dodaj do ekranu"
 
 msgid "Request name;Bytes;Manual"
-msgstr "Nazwa requesta,Bajty,Manual"
+msgstr "Nazwa requesta;Bajty;Manualny?"
 
 msgid "Add"
 msgstr "Dodaj"
 
 msgid "Send request bytes (HEX)"
-msgstr "Wysłane bajty requesta (HEX)"
+msgstr "Wysyłane bajty w requeście (HEX)"
 
 msgid "Receive bytes (HEX)"
-msgstr "Otrzymane bajty (HEX)"
+msgstr "Otrzymane bajty w odpowiedzi (HEX)"
 
 msgid "Data length"
 msgstr "Długość danych"
@@ -50,19 +50,19 @@ msgstr ""
 "Nazwa danych;Bit startowy;Przesunięcie bitu;Liczba bitów;Kolejność bajtów"
 
 msgid "Little"
-msgstr "Mały"
+msgstr "Od małego"
 
 msgid "Big"
-msgstr "Duży"
+msgstr "Od dużego"
 
 msgid "Inherits globals"
-msgstr "Dziedziczenie globalne"
+msgstr "Dziedziczona globalnie"
 
 msgid "No SDS"
 msgstr "Nie SDS"
 
 msgid "Plant"
-msgstr ""
+msgstr "Fabryka"
 
 msgid "After Sale"
 msgstr "Po sprzedaży"
@@ -80,7 +80,7 @@ msgid "Add request"
 msgstr "Dodaj polecenie"
 
 msgid "Send bytes"
-msgstr "Wyślij bajty"
+msgstr "Wysyła bajty"
 
 msgid "Receive bytes"
 msgstr "Odbiera bajty"
@@ -243,7 +243,7 @@ msgid "Delete selected"
 msgstr "Usuń Wybrane"
 
 msgid "Diag version"
-msgstr "Wersja diagnostyczna"
+msgstr "Wersja diagnostyki"
 
 msgid "Soft"
 msgstr ""
@@ -417,7 +417,7 @@ msgid "Unknown address: "
 msgstr "Nieznany adres: "
 
 msgid "FAIL"
-msgstr "Niepowodzenie"
+msgstr "NIEPOWODZENIE"
 
 msgid "OK/TIMEOUT"
 msgstr ""
@@ -597,7 +597,7 @@ msgid "About Developers"
 msgstr "O Developerach"
 
 msgid "Get Git update"
-msgstr "Zdobądź aktualizację z Gita"
+msgstr "Zdobądź aktualizację z Github"
 
 msgid "About"
 msgstr "O"
@@ -972,7 +972,7 @@ msgid "AB90 AIRBAG Reset"
 msgstr "AB90 Reset Airbag"
 
 msgid "Airbag Tools"
-msgstr "Narzędia dla Airbagów"
+msgstr "Narzędzia dla Airbagów"
 
 msgid ""
 "AB90 (Clio III)/2<br>AIRBAG VIRGINIZER<br><font color='red'>THIS PLUGIN WILL "
@@ -1017,7 +1017,7 @@ msgid "Keys"
 msgstr "Klucze"
 
 msgid "ENTER AFTER SALE MODE"
-msgstr "WEJDŹ W TRYB PO SPRZEDAŻY"
+msgstr "WEJDŹ W TRYB PO SPRZEDAŻOWY"
 
 msgid ""
 "<font color='red'>MEGANE II CARD PROGRAMMING<br>EXPERIMENTAL : NOT TESTED "
@@ -1101,7 +1101,7 @@ msgid "<font color='green'>VIN WRITE OK</font>"
 msgstr "<font color='green'>ZAPIS VINu OK</font>"
 
 msgid "<font color='green'>EPS virgin</font>"
-msgstr ""
+msgstr "<font color='green'>EPS zdjęte</font>"
 
 msgid "<font color='red'>EPS coded</font>"
 msgstr "<font color='red'>EPS zakodowany</font>"
@@ -1118,7 +1118,7 @@ msgstr ""
 "font>"
 
 msgid "Check EPS Virgin"
-msgstr "Sprawdź EPS Virgin"
+msgstr "Sprawdź zdjęcie EPS"
 
 msgid "<font color='green'>EPS not operational</font>"
 msgstr "<font color='green'>EPS nie działa</font>"
@@ -1141,7 +1141,7 @@ msgstr ""
 "font>"
 
 msgid "Check UCH Virgin"
-msgstr "Spraawdź UCH Virgin"
+msgstr "Sprawdź UCH Virgin"
 
 msgid "Virginize UCH"
 msgstr "Zdejmuje UCH"
@@ -1164,7 +1164,7 @@ msgstr ""
 "font>"
 
 msgid "Megane/Scenic II UCH Reset"
-msgstr "Megan/Scenic II Reset UCH"
+msgstr "Megane/Scenic II Reset UCH"
 
 msgid ""
 "MEGANE II UCH VIRGINIZER<br><font color='red'>THIS PLUGIN WILL ERASE YOUR "
@@ -1231,119 +1231,92 @@ msgid "CRC CALCULATOR"
 msgstr "KALKULATOR CRC"
 
 msgid "Zoe water pump Reset"
-msgstr ""
+msgstr "Zoe reset pompy wody"
 
-#, fuzzy
-#| msgid "EPS Tools"
 msgid "EVC Tools"
-msgstr "Narzędzia EPS"
+msgstr "Narzędzia EVC"
 
 msgid "Water pump counters"
-msgstr ""
+msgstr "Liczniki pompy wody"
 
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
-#, fuzzy
-#| msgid "Port speed"
 msgid "Low Speed"
-msgstr "Prędkość portu"
+msgstr "Niska prędkość"
 
 msgid "Middle Speed"
-msgstr ""
+msgstr "Średnia prędkość"
 
 msgid "High Speed"
-msgstr ""
+msgstr "Wysoka prędkość"
 
 msgid "V_Timer_DrivWEP_ON"
-msgstr ""
+msgstr "V_Timer_DrivWEP_ON"
 
 msgid "Reset"
 msgstr ""
 
-#, fuzzy
-#| msgid ""
-#| "LAGUNA II UCH VIRGINIZER<br><font color='red'>THIS PLUGIN WILL ERASE YOUR "
-#| "UCH<br>GO AWAY IF YOU HAVE NO IDEA OF WHAT IT MEANS</font>"
 msgid ""
 "Zoe water pump counters<br><font color='red'>THIS PLUGIN WILL ERASE WATER "
 "PUMP COUNTERS<br>GO AWAY IF YOU HAVE NO IDEA OF WHAT IT MEANS</font>"
 msgstr ""
-"LAGUNA II UCH VIRGINIZER<br><font color='red'>TEN PLUGIN ZRESETUJE TWOJE "
-"UCH<br>JEŚLI NIE WIESZ CO TO OZNACZA TO ODPUŚĆ SOBIĘ UŻYWANIE TEJ OPCJI</"
-"font>"
+"Zoe licznik pompy wody<br><font color='red'>TEN PLUGIN ZRESETUJE LICZNIK "
+"POMPY WODY<br>JEŚLI NIE WIESZ CO TO OZNACZA TO ODPUŚĆ SOBIĘ UŻYWANIE TEJ "
+"OPCJI</font>"
 
 #, fuzzy
 #| msgid "Decoded values"
 msgid "Check values"
 msgstr "Zdekodowane wartości"
 
-#, fuzzy
-#| msgid "Writing archive"
 msgid "Waiting action"
-msgstr "Zapisywanie archiwum"
+msgstr "Czekanie akcji"
 
 msgid "Reset all counters"
-msgstr ""
+msgstr "Zresetuj wszystkie liczniki"
 
 msgid ""
 "<h1>TIPS</h1><ul><li>Insert key CARD</li><li>Put D position</li><li>Press/"
 "Stay START until <b>Remove card</b> message</li><li>Put P position</"
 "li><li>Keep key card inserted</li></ul>"
 msgstr ""
+"<h1>WSKAZÓWKA</h1><ul><li>Włóż kartę</li><li>Ustaw na pozycji D</"
+"li><li>Wciskaj/Trzymaj START dopóki <b>nie ukaże Ci się komunikat Usuń "
+"kartę</b></li><li>Ustaw na pozycji P</li><li>Miej kartę włożoną</li></ul>"
 
-#, fuzzy
-#| msgid "<font color='green'>UCH virgin</font>"
 msgid "<font color='green'>Values read</font>"
-msgstr "<font color='green'>UCH zdejmowany</font>"
+msgstr "<font color='green'>Odczytanie wartości</font>"
 
-#, fuzzy
-#| msgid "Checking port speed:"
 msgid "Reading Low speed"
-msgstr "Sprawdzanie prędkości portu:"
+msgstr "Czytanie Niska prędkość"
 
 msgid "Reading Middle speed"
-msgstr ""
+msgstr "Czytanie Średnia prędkość"
 
 msgid "Reading High speed"
-msgstr ""
+msgstr "Czytanie Wysoka prędkość"
 
-#, fuzzy
-#| msgid "<font color='green'>CLEAR EXECUTED</font>"
 msgid "<font color='green'>CLEAR V_Timer_DrivWEP_ON EXECUTED</font>"
-msgstr "<font color='green'>WYCZYŚĆ WYKONANE</font>"
+msgstr "<font color='green'>CZYSZCZENIE V_Timer_DrivWEP_ON WYKONANE</font>"
 
-#, fuzzy
-#| msgid "<font color='red'>CLEAR FAILED</font>"
 msgid "<font color='red'>CLEAR V_Timer_DrivWEP_ON FAILED</font>"
-msgstr "<font color='red'>WYCZYŚĆ NIEUDANE</font>"
+msgstr "<font color='red'>CZYSZCZENIE V_Timer_DrivWEP_ON NIEUDANE</font>"
 
-#, fuzzy
-#| msgid "<font color='green'>CLEAR EXECUTED</font>"
 msgid "<font color='green'>CLEAR Low EXECUTED</font>"
-msgstr "<font color='green'>WYCZYŚĆ WYKONANE</font>"
+msgstr "<font color='green'>CZYSZCZENIE NISKIE WYKONANE</font>"
 
-#, fuzzy
-#| msgid "<font color='red'>CLEAR FAILED</font>"
 msgid "<font color='red'>CLEAR Low FAILED</font>"
-msgstr "<font color='red'>WYCZYŚĆ NIEUDANE</font>"
+msgstr "<font color='red'>CZYSZCZENIE ŚREDNIE NIEUDANE</font>"
 
-#, fuzzy
-#| msgid "<font color='green'>CLEAR EXECUTED</font>"
 msgid "<font color='green'>CLEAR Medium EXECUTED</font>"
-msgstr "<font color='green'>WYCZYŚĆ WYKONANE</font>"
+msgstr "<font color='green'>CZYSZCZENIE ŚREDNIE WYKONANE</font>"
 
-#, fuzzy
-#| msgid "<font color='red'>CLEAR FAILED</font>"
 msgid "<font color='red'>CLEAR Medium FAILED</font>"
-msgstr "<font color='red'>WYCZYŚĆ NIEUDANE</font>"
+msgstr "<font color='red'>CZYSZCZENIE ŚREDNIE NIEUDANE</font>"
 
-#, fuzzy
-#| msgid "<font color='green'>CLEAR EXECUTED</font>"
 msgid "<font color='green'>CLEAR HIGH EXECUTED</font>"
-msgstr "<font color='green'>WYCZYŚĆ WYKONANE</font>"
+msgstr "<font color='green'>CZYSZCZENIE WYSOKIE WYKONANE</font>"
 
-#, fuzzy
-#| msgid "<font color='red'>CLEAR FAILED</font>"
 msgid "<font color='red'>CLEAR HIGH FAILED</font>"
-msgstr "<font color='red'>WYCZYŚĆ NIEUDANE</font>"
+msgstr "<font color='red'>CZYSZCZENIE WYSOKIE NIEUDANE</font>"
