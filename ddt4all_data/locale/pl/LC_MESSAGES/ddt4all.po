@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:26+0100\n"
-"PO-Revision-Date: 2025-06-27 17:57+0200\n"
+"PO-Revision-Date: 2025-06-27 18:29+0200\n"
 "Last-Translator: Zaptyp <no-reply@github.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -89,7 +89,7 @@ msgid "Number of bits"
 msgstr "Liczba bitów"
 
 msgid "Signed"
-msgstr "Podpisano"
+msgstr "Ze znakiem (signed)"
 
 msgid "Add item"
 msgstr "Dodaj pozycję"
@@ -140,13 +140,13 @@ msgid "Data type"
 msgstr "Typ danych"
 
 msgid "Numeric"
-msgstr "Numeryczne"
+msgstr "Liczba"
 
 msgid "Numeric items"
-msgstr "Pozycja numeryczna"
+msgstr "Element liczbowy"
 
 msgid "Hex"
-msgstr "Hex"
+msgstr "HEX"
 
 #, python-format
 msgid "Data is used by request %s"
@@ -982,7 +982,7 @@ msgstr ""
 "SOBIĘ UŻYWANIE TEJ OPCJI</font>"
 
 msgid "Check ACU Virgin"
-msgstr "Sprawdź ACU Virgin"
+msgstr "Sprawdź zdjęcia ACU"
 
 msgid "Waiting"
 msgstr "Czekanie"
@@ -1139,7 +1139,7 @@ msgstr ""
 "font>"
 
 msgid "Check UCH Virgin"
-msgstr "Sprawdź UCH Virgin"
+msgstr "Sprawdź zdjęcie UCH"
 
 msgid "Virginize UCH"
 msgstr "Zdejmuje UCH"
