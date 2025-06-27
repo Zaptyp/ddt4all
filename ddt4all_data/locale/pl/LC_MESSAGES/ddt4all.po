@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-13 10:26+0100\n"
-"PO-Revision-Date: 2025-06-27 17:54+0200\n"
+"PO-Revision-Date: 2025-06-27 17:57+0200\n"
 "Last-Translator: Zaptyp <no-reply@github.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -844,8 +844,6 @@ msgstr ""
 "<center>KOMENDA ZABLOKOWANA</center>\n"
 "Aktywuj tryb eksperta aby odblokować"
 
-#, fuzzy
-#| msgid "Ecu parameters"
 msgid "Writing parameter"
 msgstr "Zapisywanie parametru"
 
@@ -948,7 +946,7 @@ msgid "Opening ECU Database..."
 msgstr "Otwieranie bazy danych ECU..."
 
 msgid "parts as: "
-msgstr "cześci z: "
+msgstr "części z: "
 
 msgid " please review dumpVehicles def."
 msgstr " proszę sprawdzić definicję dumpVehicles."
@@ -1033,7 +1031,7 @@ msgid "VALIDATE"
 msgstr "ZWALIDUJ"
 
 msgid "Algo 2"
-msgstr ""
+msgstr "Algorytm 2"
 
 msgid "ISK"
 msgstr ""
@@ -1265,10 +1263,8 @@ msgstr ""
 "POMPY WODY<br>JEŚLI NIE WIESZ CO TO OZNACZA TO ODPUŚĆ SOBIĘ UŻYWANIE TEJ "
 "OPCJI</font>"
 
-#, fuzzy
-#| msgid "Decoded values"
 msgid "Check values"
-msgstr "Zdekodowane wartości"
+msgstr "Sprawdzanie wartości"
 
 msgid "Waiting action"
 msgstr "Czekanie akcji"
